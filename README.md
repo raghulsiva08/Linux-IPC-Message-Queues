@@ -19,6 +19,8 @@ Write the C Program using Linux message queues API
 Execute the C Program for the desired output. 
 
 # PROGRAM:
+
+## C program that receives a message from message queue and display them
 ~~~
 #include <stdio.h>
 #include <stdlib.h>
@@ -87,14 +89,15 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 ~~~
-## C program that receives a message from message queue and display them
-<img width="642" height="533" alt="Screenshot 2026-11-21 104812" src="https://github.com/user-attachments/assets/4b580c3f-76fa-468e-844f-0721814e6700" />
+
 
 
 
 
 
 ## OUTPUT
+<img width="642" height="533" alt="Screenshot 2026-11-21 104812" src="https://github.com/user-attachments/assets/e1ce68d2-7299-4223-809d-5e301f7dafab" />
+
 
 <img width="593" height="162" alt="Screenshot 2026-11-21 104920" src="https://github.com/user-attachments/assets/f546a53f-f7fe-4aae-9681-c63cf73ecc3e" />
 
